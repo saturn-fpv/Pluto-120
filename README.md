@@ -4,7 +4,6 @@
 
 The **Pluto-120** is an ultra-light and rigid **120 mm wheelbase unibody toothpick frame** designed for efficient and responsive 3-inch micro builds. The geometry is optimized for stiffness and low weight, making it ideal for quiet park cruising, and long-range micro setups.
 
-![Pluto-120 Frame](/images/Pluto-120.jpg)
 <p align="center">
   <img src="/images/Pluto-120-square.jpg" width="40%">
   <img src="/images/Pluto-120-octa.jpg" width="40%">
