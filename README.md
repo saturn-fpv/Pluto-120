@@ -74,6 +74,6 @@ Suggested prints:
 
 ## 🔗 Printables Link
 
-👉 **Printables:** https://www.printables.com/
+👉 **Printables:** [https://www.printables.com/model/1485199-pluto-120-fpv-drone-frame](https://www.printables.com/model/1485199-pluto-120-fpv-drone-frame)
 
 ---
